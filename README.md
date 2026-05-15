@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+Computing+Enthusiast;AWS+Infrastructure+Builder;Serverless+Architecture+Learner;Linux+%26+Docker+Explorer;Building+Scalable+Cloud+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manav32478&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 # ☁️ About Me
