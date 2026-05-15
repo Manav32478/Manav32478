@@ -6,10 +6,6 @@
 
 ### ☁️ Cloud Computing • AWS • Serverless • Linux • Docker
 
-<img src="https://komarev.com/ghpvc/?username=Manav32478&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Manav32478?style=for-the-badge&color=00F7FF" />
-<img src="https://img.shields.io/github/stars/Manav32478?style=for-the-badge&color=FFD700" />
-
 </div>
 
 ---
