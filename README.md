@@ -1,64 +1,61 @@
 <div align="center">
 
-# Hi 👋, I'm Manav Sarvaiya
+# 🚀 Manav Sarvaiya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=AWS+Cloud+Computing+Enthusiast;Building+Scalable+Cloud+Solutions;Serverless+Architecture+Learner;Linux+%2B+Docker+Explorer;Future+Cloud+Engineer+☁️" />
+### ☁️ Cloud Backend Engineer | AWS | Serverless Architectures
 
-### ☁️ Cloud Computing • AWS • Serverless • Linux • Docker
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Designing+Scalable+Cloud+Systems;AWS+Serverless+Architecture+Builder;Backend+Engineering+Enthusiast;Linux+%7C+Docker+%7C+DevOps;Future+Cloud+Engineer+☁️" />
 
 </div>
 
 ---
 
-# ☁️ About Me
+# 🧠 About Me
 
 ```yaml
 Name: Manav Sarvaiya
-Location: Bhavnagar, Gujarat, India
-Role: AWS Cloud Computing Enthusiast
+Role: Cloud Backend Engineer (Aspiring)
+Location: Gujarat, India
 Education: B.Tech Information Technology
-Focus Areas:
-  - AWS Infrastructure
-  - Serverless Applications
+
+Specialization:
+  - AWS Cloud Architecture
+  - Serverless Backend Systems
+  - Scalable API Design
   - Cloud-Native Development
-  - Docker & Linux
-  - Scalable Backend Systems
+
+Currently Learning:
+  - Advanced AWS Architectures
+  - CI/CD Pipelines
+  - Cloud Security & Optimization
 ```
 
-💡 Passionate about designing secure, scalable and reliable cloud applications  
-🚀 Building real-world AWS projects with serverless architectures  
-🐧 Exploring Linux systems, Docker containers & cloud automation  
-⚡ Interested in scalable infrastructure and performance optimization  
-🌍 Continuously learning modern cloud technologies and DevOps workflows  
+💡 I build **scalable, fault-tolerant backend systems** using AWS
+🚀 Focused on **real-world system design & backend engineering**
+⚡ Passionate about **performance optimization and distributed systems**
+🐧 Exploring **Linux, Docker, and DevOps practices**
 
 ---
 
-# ⚡ Cloud & Development Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,github,nodejs,react,mysql,firebase,python,java,cpp,c,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nodejs,react,python,mysql,firebase,github,java,cpp&perline=6" />
 
 </div>
 
 ---
 
-# ☁️ AWS Services & Cloud Technologies
+# ☁️ Core Cloud Expertise
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</div>
+* **Compute:** AWS Lambda, EC2
+* **Storage:** S3, DynamoDB
+* **API Layer:** API Gateway
+* **Authentication:** Cognito (JWT-based auth)
+* **CDN:** CloudFront
+* **Monitoring:** CloudWatch
+* **Security:** IAM Roles & Policies
 
 ---
 
@@ -66,47 +63,48 @@ Focus Areas:
 
 ## ☁️ Cloud Arcade — Serverless Gaming Platform
 
-### 🔹 Overview
-Designed and deployed a scalable serverless gaming platform on AWS featuring authentication, real-time leaderboards and browser-based games.
+**Architecture:** API Gateway → Lambda → DynamoDB → CloudFront → S3
 
-### ⚡ Key Highlights
-- Built secure REST APIs using AWS Lambda & API Gateway
-- Implemented JWT authentication using Amazon Cognito
-- Designed DynamoDB architecture for low-latency leaderboard queries
-- Configured S3 static hosting with CloudFront CDN
-- Monitored infrastructure using CloudWatch
+### ⚡ Highlights
 
-### 🛠 Tech Stack
-`AWS Lambda` `API Gateway` `Cognito` `DynamoDB` `S3` `CloudFront` `CloudWatch` `Node.js`
+* Designed **fully serverless architecture** eliminating server management
+* Built **low-latency leaderboard system** using DynamoDB
+* Implemented **secure JWT authentication** with Cognito
+* Deployed globally using **S3 + CloudFront CDN**
+* Monitored system performance using CloudWatch
+
+### 🧠 Engineering Impact
+
+* Achieved **high scalability with zero infrastructure overhead**
+* Optimized backend for **real-time data access**
+* Designed system for **concurrent user handling**
 
 ---
 
-## 🛒 SPARSH — Full-Stack E-Commerce Platform
+## 🛒 SPARSH — Scalable E-Commerce Platform
 
-### 🔹 Overview
-Production-grade e-commerce platform with payment integration, shipping automation and real-time order management.
+### ⚡ Highlights
 
-### ⚡ Key Highlights
-- Developed responsive frontend using React.js
-- Integrated Razorpay payment gateway
-- Automated logistics using Shiprocket APIs
-- Implemented backend workflows using Node.js & Supabase
-- Optimized product & order database structures
+* Built responsive UI using React.js
+* Integrated secure **Razorpay payment gateway**
+* Automated logistics via Shiprocket APIs
+* Developed backend with **Node.js + Supabase**
+* Optimized database for product & order workflows
 
-### 🛠 Tech Stack
-`React.js` `Node.js` `Supabase` `Razorpay API` `Shiprocket API`
+### 🧠 Engineering Impact
+
+* Simulated **production-grade e-commerce system**
+* Improved performance via optimized queries
 
 ---
 
 ## 🚨 Women Safety Platform
 
-### 🔹 Overview
-Real-time emergency response system developed during Smart India Hackathon.
+### ⚡ Highlights
 
-### ⚡ Key Highlights
-- Emergency alert workflows
-- GPS-based location tracking
-- Real-time safety communication system
+* Built **real-time emergency alert system**
+* Implemented **GPS-based tracking**
+* Designed **instant communication workflow**
 
 ---
 
@@ -114,9 +112,9 @@ Real-time emergency response system developed during Smart India Hackathon.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -132,24 +130,21 @@ Real-time emergency response system developed during Smart India Hackathon.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏗️ Engineering Mindset
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manav32478&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+```txt
+Design → Build → Optimize → Scale ☁️
+```
 
 ---
 
-# 📚 Currently Learning
+# 📚 Learning & Growth
 
-- Advanced AWS Architectures
-- CI/CD Pipelines
-- Docker & Containerization
-- Linux Administration
-- Cloud Security Best Practices
-- Scalable Backend Engineering
+* Advanced AWS Architectures
+* Docker & Containerization
+* CI/CD Pipelines
+* Linux System Internals
+* Cloud Security Best Practices
 
 ---
 
@@ -173,18 +168,14 @@ Real-time emergency response system developed during Smart India Hackathon.
 
 ---
 
-# ⚡ Philosophy
+# 🎯 Career Goal
 
-<div align="center">
-
-```txt
-Build • Learn • Deploy • Scale ☁️
-```
-
-</div>
+> To become a **Cloud Backend Engineer** building scalable, secure, and high-performance distributed systems using AWS.
 
 ---
 
-# 🚀 Career Goal
+<div align="center">
 
-> Aspiring Cloud Engineer focused on building scalable, secure and high-performance cloud-native systems using AWS technologies.
+⭐ *"Great engineers don’t just write code — they design systems."*
+
+</div>
