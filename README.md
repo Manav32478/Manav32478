@@ -1,12 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Manav Sarvaiya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Manav%20Sarvaiya&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:00F7FF&height=200&section=header&text=Manav%20Sarvaiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+# 👋 Hi, I'm Manav Sarvaiya
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;Building+Real-World+Projects;Problem+Solver;Future+Software+Engineer+☁️" />
 
 ### ☁️ Cloud Computing • Full Stack • JavaScript • Problem Solving
+
+<p>
+<img src="https://img.shields.io/badge/Profile-Professional-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Cloud%20%2B%20FullStack-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -31,13 +37,13 @@ Core Focus:
   - Problem Solving (DSA)
 ```
 
-💡 I build **scalable and user-focused applications**  
-🚀 Exploring **cloud-native systems through real projects**  
+💡 I build **scalable and user-focused applications**
+🚀 Exploring **cloud-native systems through real projects**
 ⚡ Strong foundation in **frontend + backend fundamentals**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
@@ -61,7 +67,7 @@ Core Focus:
 
 ## ☁️ Cloud Arcade — Serverless Gaming Platform
 
-🔗 **Live Demo:**  
+🔗 **Live Demo:**
 http://cloud-arcade-frontend-manav.s3-website.ap-south-1.amazonaws.com
 
 ### 💡 Overview
@@ -80,9 +86,8 @@ API Layer (Future Scope)
 Database Layer (Planned)
 ```
 
-<!-- Animated Architecture Visual -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213028814-1f8b0c6e-architecture-cloud.gif" width="80%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213028814-1f8b0c6e-architecture-cloud.gif" width="75%" />
 </p>
 
 ### ⚡ Highlights
@@ -96,32 +101,32 @@ Database Layer (Planned)
 
 ## 🛒 SPARSH E-Commerce
 
-🔗 **Live Demo:**  
+🔗 **Live Demo:**
 https://sparshnaturals.shop
 
 ### ⚡ Highlights
 
-* Product UI & cart system  
-* Payment integration  
-* Backend flow handling  
-* Responsive design  
+* Product UI & cart system
+* Payment integration
+* Backend flow handling
+* Responsive design
 
 ---
 
 ## 🚨 Women Safety Platform
 
-🔗 **Live Demo:**  
+🔗 **Live Demo:**
 https://women-s-safety-website.vercel.app
 
 ### ⚡ Highlights
 
-* Emergency alert interface  
-* User authentication flow  
-* Clean UI  
+* Emergency alert interface
+* User authentication flow
+* Clean UI
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 ---
 
@@ -139,9 +144,9 @@ https://women-s-safety-website.vercel.app
 
 # 🧠 Currently Learning
 
-* AWS Services & Architecture  
-* System Design Basics  
-* Data Structures & Algorithms  
+* AWS Services & Architecture
+* System Design Basics
+* Data Structures & Algorithms
 
 ---
 
@@ -183,11 +188,10 @@ Build → Learn → Scale → Repeat ☁️
 
 ---
 
-<!-- Recruiter SEO Keywords (Hidden) -->
 <p align="center" style="display:none;">
 Full Stack Developer, Cloud Computing, AWS, S3, CloudFront, JavaScript, React, Node.js, Scalable Systems, Software Engineer, Web Development, System Design, GitHub Portfolio, Frontend Developer, Backend Basics, Cloud Projects, Serverless Architecture, Developer Portfolio India, Entry Level Software Engineer
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:00F7FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
