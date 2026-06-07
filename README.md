@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Manav Sarvaiya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=AWS+Cloud+Computing+Enthusiast;Building+Scalable+Cloud+Systems;Serverless+Architecture+Learner;Linux+%2B+Docker+Explorer;Future+Cloud+Engineer+☁️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;Building+Real-World+Projects;Problem+Solver;Future+Software+Engineer+☁️" />
 
-### ☁️ AWS • Cloud Computing • Serverless • Docker • Linux
+### ☁️ Cloud Computing • Full Stack • JavaScript • Problem Solving
 
 </div>
 
@@ -15,21 +15,19 @@
 ```yaml
 Name: Manav Sarvaiya
 Location: Gujarat, India
-Role: Cloud Computing Enthusiast (AWS Focused)
+Role: Full Stack Developer | Cloud Computing Enthusiast
 Education: B.Tech Information Technology
 
 Core Focus:
-  - Cloud Architecture (AWS)
-  - Serverless Systems
-  - Backend & APIs
-  - Docker & Linux
-  - Scalable System Design
+  - Cloud Computing (AWS - Learning & Projects)
+  - Full Stack Development
+  - Scalable System Thinking
+  - Problem Solving (DSA)
 ```
 
-💡 I build **secure, scalable, and production-ready cloud systems**
-🚀 Focused on **real-world AWS projects & serverless architectures**
-⚙️ Passionate about **performance, automation, and system design**
-🐧 Strong interest in **Linux, containers, and DevOps workflows**
+💡 I build **scalable and user-focused applications**
+🚀 Exploring **cloud-native systems through real projects**
+⚡ Strong foundation in **frontend + backend fundamentals**
 
 ---
 
@@ -37,24 +35,7 @@ Core Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,github,nodejs,react,mysql,firebase,python,java,cpp&perline=6" />
-
-</div>
-
----
-
-# ☁️ AWS Expertise
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=aws,js,react,nodejs,html,css,cpp,c,mysql,git,github,vscode&perline=6" />
 
 </div>
 
@@ -62,82 +43,96 @@ Core Focus:
 
 # 🚀 Featured Projects
 
-## ☁️ Cloud Arcade — Serverless Platform
+---
 
-**Scalable AWS-based gaming platform with authentication & real-time leaderboard**
+## ☁️ Cloud Arcade — Serverless Gaming Platform (Core Project)
 
-### 🔹 Key Achievements
+🔗 **Live Demo:**
+http://cloud-arcade-frontend-manav.s3-website.ap-south-1.amazonaws.com
 
-* Designed **serverless backend** using Lambda + API Gateway
-* Implemented **JWT authentication** via Cognito
-* Optimized **DynamoDB schema for low-latency queries**
-* Deployed static frontend via **S3 + CloudFront CDN**
-* Monitored system using **CloudWatch logging**
+### 💡 Overview
 
-### 🛠 Stack
+A cloud-based platform designed with **serverless and scalable architecture in mind**.
 
-`AWS Lambda` `API Gateway` `DynamoDB` `Cognito` `S3` `CloudFront` `Node.js`
+### 🧠 Architecture Thinking
+
+```txt
+Frontend (S3 Static Hosting)
+        ↓
+CloudFront (CDN Layer)
+        ↓
+API Layer (Future Scope)
+        ↓
+Database Layer (Planned)
+```
+
+### ⚡ Highlights
+
+* Hosted on **AWS S3**
+* Designed for **serverless scalability**
+* Modular architecture
+* Performance-focused UI
 
 ---
 
-## 🛒 SPARSH — E-Commerce Platform
+## 🛒 SPARSH E-Commerce
 
-**Production-grade full-stack shopping platform**
+🔗 **Live Demo:**
+https://sparshnaturals.shop
 
-### 🔹 Key Achievements
+### 💡 Overview
 
-* Built responsive frontend with React
-* Integrated **Razorpay payments**
-* Automated logistics via **Shiprocket APIs**
-* Designed scalable backend workflows
-* Structured optimized product & order database
+A full-stack e-commerce platform focused on real-world usability.
 
-### 🛠 Stack
+### ⚡ Highlights
 
-`React.js` `Node.js` `Supabase` `Razorpay` `Shiprocket`
+* Product UI & cart system
+* Payment integration
+* Backend flow handling
+* Mobile-first responsive design
 
 ---
 
 ## 🚨 Women Safety Platform
 
-**Real-time emergency response system**
+🔗 **Live Demo:**
+https://women-s-safety-website.vercel.app
 
-* GPS-based tracking system
-* Emergency alert workflows
-* Real-time communication system
+### 💡 Overview
+
+A real-world application designed for accessibility and safety.
+
+### ⚡ Highlights
+
+* Emergency alert interface
+* User authentication flow
+* Clean and accessible UI
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Manav32478&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manav32478&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🧠 Currently Learning
 
-* Advanced AWS Architectures
-* CI/CD Pipelines & DevOps
-* Docker & Container Orchestration
-* Linux System Administration
-* Cloud Security Best Practices
-* Scalable Backend Engineering
+* AWS Services & Architecture
+* System Design Basics
+* Data Structures & Algorithms
+* Backend Development Fundamentals
 
 ---
 
@@ -149,7 +144,7 @@ Core Focus:
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/manavsarvaiya/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -164,13 +159,11 @@ Core Focus:
 # ⚡ Philosophy
 
 ```txt
-Design → Build → Deploy → Scale ☁️
+Build → Learn → Scale → Repeat ☁️
 ```
 
 ---
 
 # 🎯 Career Goal
 
-> Aspiring Cloud Engineer focused on building scalable, reliable and high-performance cloud-native systems using AWS.
-
----
+> To become a Software Engineer skilled in full stack development and cloud computing, building scalable and impactful systems.
