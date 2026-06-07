@@ -105,8 +105,7 @@ https://women-s-safety-website.vercel.app
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Manav32478&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
