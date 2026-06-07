@@ -110,14 +110,6 @@ https://women-s-safety-website.vercel.app
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manav32478&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🧠 Currently Learning
 
 * AWS Services & Architecture
