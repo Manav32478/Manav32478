@@ -45,14 +45,14 @@ Core Focus:
 
 ---
 
-## ☁️ Cloud Arcade — Serverless Gaming Platform (Core Project)
+## ☁️ Cloud Arcade — Serverless Gaming Platform
 
 🔗 **Live Demo:**
 http://cloud-arcade-frontend-manav.s3-website.ap-south-1.amazonaws.com
 
 ### 💡 Overview
 
-A cloud-based platform designed with **serverless and scalable architecture in mind**.
+A cloud-based platform designed with **scalable and serverless architecture in mind**.
 
 ### 🧠 Architecture Thinking
 
@@ -80,16 +80,12 @@ Database Layer (Planned)
 🔗 **Live Demo:**
 https://sparshnaturals.shop
 
-### 💡 Overview
-
-A full-stack e-commerce platform focused on real-world usability.
-
 ### ⚡ Highlights
 
 * Product UI & cart system
 * Payment integration
 * Backend flow handling
-* Mobile-first responsive design
+* Responsive design
 
 ---
 
@@ -98,23 +94,19 @@ A full-stack e-commerce platform focused on real-world usability.
 🔗 **Live Demo:**
 https://women-s-safety-website.vercel.app
 
-### 💡 Overview
-
-A real-world application designed for accessibility and safety.
-
 ### ⚡ Highlights
 
 * Emergency alert interface
 * User authentication flow
-* Clean and accessible UI
+* Clean UI
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manav32478&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav32478&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -132,7 +124,6 @@ A real-world application designed for accessibility and safety.
 * AWS Services & Architecture
 * System Design Basics
 * Data Structures & Algorithms
-* Backend Development Fundamentals
 
 ---
 
@@ -164,6 +155,6 @@ Build → Learn → Scale → Repeat ☁️
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Goal
 
-> To become a Software Engineer skilled in full stack development and cloud computing, building scalable and impactful systems.
+> To become a Software Engineer skilled in full stack development and cloud computing.
