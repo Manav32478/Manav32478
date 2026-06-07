@@ -2,11 +2,17 @@
 
 # 👋 Hi, I'm Manav Sarvaiya
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:00F7FF&height=200&section=header&text=Manav%20Sarvaiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F8CFF&center=true&vCenter=true&width=800&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;Building+Real-World+Projects;Problem+Solver;Future+Software+Engineer+☁️" />
 
 ### ☁️ Cloud Computing • Full Stack • JavaScript • Problem Solving
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212259982-8b7bdfb2-5e74-4c41-9a6e-4b2f6e5c4c60.gif" width="100%"/>
 
 ---
 
@@ -25,9 +31,13 @@ Core Focus:
   - Problem Solving (DSA)
 ```
 
-💡 I build **scalable and user-focused applications**
-🚀 Exploring **cloud-native systems through real projects**
+💡 I build **scalable and user-focused applications**  
+🚀 Exploring **cloud-native systems through real projects**  
 ⚡ Strong foundation in **frontend + backend fundamentals**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ---
 
@@ -41,13 +51,17 @@ Core Focus:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750724-7c63b5d6-6b3f-4c41-9a6e-4b2f6e5c4c60.gif" width="100%"/>
+
+---
+
 # 🚀 Featured Projects
 
 ---
 
 ## ☁️ Cloud Arcade — Serverless Gaming Platform
 
-🔗 **Live Demo:**
+🔗 **Live Demo:**  
 http://cloud-arcade-frontend-manav.s3-website.ap-south-1.amazonaws.com
 
 ### 💡 Overview
@@ -66,6 +80,11 @@ API Layer (Future Scope)
 Database Layer (Planned)
 ```
 
+<!-- Animated Architecture Visual -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213028814-1f8b0c6e-architecture-cloud.gif" width="80%" />
+</p>
+
 ### ⚡ Highlights
 
 * Hosted on **AWS S3**
@@ -77,28 +96,32 @@ Database Layer (Planned)
 
 ## 🛒 SPARSH E-Commerce
 
-🔗 **Live Demo:**
+🔗 **Live Demo:**  
 https://sparshnaturals.shop
 
 ### ⚡ Highlights
 
-* Product UI & cart system
-* Payment integration
-* Backend flow handling
-* Responsive design
+* Product UI & cart system  
+* Payment integration  
+* Backend flow handling  
+* Responsive design  
 
 ---
 
 ## 🚨 Women Safety Platform
 
-🔗 **Live Demo:**
+🔗 **Live Demo:**  
 https://women-s-safety-website.vercel.app
 
 ### ⚡ Highlights
 
-* Emergency alert interface
-* User authentication flow
-* Clean UI
+* Emergency alert interface  
+* User authentication flow  
+* Clean UI  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ---
 
@@ -108,13 +131,21 @@ https://women-s-safety-website.vercel.app
   <img src="https://streak-stats.demolab.com?user=Manav32478&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manav32478&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 # 🧠 Currently Learning
 
-* AWS Services & Architecture
-* System Design Basics
-* Data Structures & Algorithms
+* AWS Services & Architecture  
+* System Design Basics  
+* Data Structures & Algorithms  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-6f74c6b5-cc0c-4c41-9a6e-4b2f6e5c4c60.gif" width="100%"/>
 
 ---
 
@@ -149,3 +180,14 @@ Build → Learn → Scale → Repeat ☁️
 # 🎯 Goal
 
 > To become a Software Engineer skilled in full stack development and cloud computing.
+
+---
+
+<!-- Recruiter SEO Keywords (Hidden) -->
+<p align="center" style="display:none;">
+Full Stack Developer, Cloud Computing, AWS, S3, CloudFront, JavaScript, React, Node.js, Scalable Systems, Software Engineer, Web Development, System Design, GitHub Portfolio, Frontend Developer, Backend Basics, Cloud Projects, Serverless Architecture, Developer Portfolio India, Entry Level Software Engineer
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:00F7FF&height=120&section=footer" />
